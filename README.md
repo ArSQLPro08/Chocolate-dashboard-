@@ -13,3 +13,4 @@ This Choco Market Pulse Dashboard uncovers hidden insights across sales, shippin
 💬 Want help building a dashboard like this for your business? Or want the DAX/Power BI tips behind it?
 Let’s connect. I’d love to help!
 
+![Screenshot_13](https://github.com/user-attachments/assets/248def89-8c84-46b0-a253-7c1c061b4534)
